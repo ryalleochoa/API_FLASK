@@ -1,4 +1,4 @@
-# Mi Proyecto Ejemplo
+
 # API de Gestión de Películas con FastAPI
 
 Este proyecto es una API simple de Gestión de Películas construida con FastAPI, que permite a los usuarios interactuar con una base de datos PostgreSQL para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre registros de películas. La API permite recuperar, agregar, actualizar y eliminar películas de una base de datos.
